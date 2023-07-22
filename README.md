@@ -1,6 +1,8 @@
 # HexConverterByFreshman
 Cpp初心者精心烹调的屎山_纪念Freshman时光
 
+Write in Simplified Chinese, English Readme [Here]([https://markdown.com.cn](https://github.com/SpadeKtlsg/HexConverterByFreshman/blob/main/ReadmeInEnglish))
+
 使用Cpp自己造轮子完成的进制转换工具, 能够在2,8,10,16进制中自由转换, 同时搭配交互式设计更加人性化
 
 本项目包含以下内容:
