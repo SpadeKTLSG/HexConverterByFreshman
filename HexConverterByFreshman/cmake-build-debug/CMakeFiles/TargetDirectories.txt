@@ -1,0 +1,3 @@
+D:/Workshop/Codes/HexConverterByFreshman/cmake-build-debug/CMakeFiles/HexConverterByFreshman.dir
+D:/Workshop/Codes/HexConverterByFreshman/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Workshop/Codes/HexConverterByFreshman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
