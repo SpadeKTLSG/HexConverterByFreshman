@@ -1,5 +1,5 @@
 # HexConverterByFreshman
-Cpp初心者精心烹调的屎山_纪念Freshman时光
+Cpp初心者精心烹调的屎山 - 纪念Freshman时光
 
 
 Write in Simplified Chinese, English Readme [Here](https://github.com/SpadeKtlsg/HexConverterByFreshman/blob/main/ReadmeInEnglish)
